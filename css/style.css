@@ -1,0 +1,19 @@
+/* Created by: Jaejun
+ * Created on: Mar 2022
+ * This CSS file defines the style for index.html ICS2O-Unit1-07-HTML-JS
+*/
+
+body {
+  background-color: yellowgreen;
+}
+
+h1 {
+  background-color: #fffb94;
+  color: hsl(147, 50%, 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #ffc2ff;
+}
